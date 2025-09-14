@@ -18,6 +18,15 @@ My journey has been shaped by curiosity and dedication — from teaching myself 
 To create projects that are not only **technically advanced** but also **aesthetically engaging**.  
 I believe in continuous learning, open collaboration, and combining different skills — from web development to 3D design — to deliver impactful solutions.  
 
-> Here on GitHub, you’ll find both my **coding projects** and my **3D design works**, reflecting my passion for innovation, creativity, and growth.  
+> Here on GitHub, you’ll find both my **coding projects** and my **3D design works**, reflecting my passion for innovation, creativity, and growth.
+>
+# Contact Information:
+- mobile number : +989373615913
+- email : sammashtizadeh@gmail.com
+- telegram ID : https://t.me/samira_star_dev
+- github address : https://github.com/samira-dev-star
+
+
+
 
 ---
