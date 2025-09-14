@@ -19,7 +19,15 @@ To create projects that are not only **technically advanced** but also **aesthet
 I believe in continuous learning, open collaboration, and combining different skills — from web development to 3D design — to deliver impactful solutions.  
 
 > Here on GitHub, you’ll find both my **coding projects** and my **3D design works**, reflecting my passion for innovation, creativity, and growth.
->
+
+# 🖼️ 3D Project Showcase
+
+![Elevator design](elevator_gallery/untitled3.png)
+
+[View Full Gallery](/workspaces/samira-dev-star/elevator_gallery)
+[See on ArtStation](https://www.artstation.com/yourprofile)
+[Download Render](elevator_gallery/untitled.png)
+
 # Contact Information:
 - mobile number : +989373615913
 - email : sammashtizadeh@gmail.com
