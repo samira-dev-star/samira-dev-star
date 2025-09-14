@@ -205,3 +205,35 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Python / Django
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+.env
+media/
+staticfiles/
+
+# Blender backups
+*.blend1
+*.blend2
+*.blend@
+*.blend[0-9]*
+__MACOSX/
+
+# Temporary / backup
+*.bak
+*.tmp
+*.swp
+*.swo
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
