@@ -22,7 +22,7 @@ I believe in continuous learning, open collaboration, and combining different sk
 
 # 🖼️ 3D Project Showcase
 
-![Elevator design]<img src="elevator_gallery/untitled3.png" alt="Elevator design" width="250" height="300"/>
+![Elevator design]<br><img src="elevator_gallery/untitled3.png" alt="Elevator design" width="250" height="300"/>
 
 [View Full Gallery](https://github.com/samira-dev-star/samira-dev-star/tree/main/elevator_gallery)
 [See on ArtStation](https://www.artstation.com/yourprofile)
