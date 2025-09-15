@@ -22,11 +22,11 @@ I believe in continuous learning, open collaboration, and combining different sk
 
 # 🖼️ 3D Project Showcase
 
-![Elevator design]<br><img src="elevator_gallery/untitled3.png" alt="Elevator design" height="250" >
+![Elevator design]<br><img src="elevator_gallery/untitled3.png" alt="Elevator design" height="250" width="200">
 
 [View Full Gallery](https://github.com/samira-dev-star/samira-dev-star/tree/main/elevator_gallery)
 [See on ArtStation](https://www.artstation.com/yourprofile)
-[Download Render](elevator_gallery/untitled.png)
+
 
 # Contact Information:
 - mobile number : +989373615913
