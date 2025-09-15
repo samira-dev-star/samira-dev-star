@@ -25,7 +25,7 @@ I believe in continuous learning, open collaboration, and combining different sk
 ![Elevator design]<br><img src="elevator_gallery/untitled3.png" alt="Elevator design" height="250" width="200">
 
 [View Full Gallery](https://github.com/samira-dev-star/samira-dev-star/tree/main/elevator_gallery)
-[See on ArtStation](https://www.artstation.com/yourprofile](https://sketchfab.com/3d-models/elevator-9156d62f77624a95a74d158ed17f8a21)
+[See on sketchfab](https://skfb.ly/pAZWw)
 
 
 # Contact Information:
