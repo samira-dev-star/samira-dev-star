@@ -27,6 +27,11 @@ I believe in continuous learning, open collaboration, and combining different sk
 [View Full Gallery](https://github.com/samira-dev-star/samira-dev-star/tree/main/elevator_gallery)
 [See on sketchfab](https://skfb.ly/pAZWw)
 
+![Character design]<br><img src="new_girl/untitled1.png" alt="Character design" height="200" width="250">
+
+[View Full Gallery](https://github.com/samira-dev-star/samira-dev-star/tree/main/elevator_gallery)
+[See on sketchfab](https://skfb.ly/pAZWw)
+
 
 # Contact Information:
 - mobile number : +989373615913
