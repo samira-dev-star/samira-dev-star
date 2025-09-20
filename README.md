@@ -29,7 +29,7 @@ I believe in continuous learning, open collaboration, and combining different sk
 
 ![Character design]<br><img src="new_girl/untitled1.png" alt="Character design" height="200" width="250">
 
-[View Full Gallery]https://github.com/samira-dev-star/samira-dev-star/tree/main/new_girl)
+[View Full Gallery](https://github.com/samira-dev-star/samira-dev-star/tree/main/new_girl)
 [See on sketchfab](https://sketchfab.com/3d-models/character-94e1cda226e3475fb57bc40f03c8d792)
 
 
