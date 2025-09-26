@@ -32,6 +32,9 @@ I believe in continuous learning, open collaboration, and combining different sk
 [View Full Gallery](https://github.com/samira-dev-star/samira-dev-star/tree/main/new_girl)
 [See on sketchfab](https://sketchfab.com/3d-models/character-94e1cda226e3475fb57bc40f03c8d792)
 
+![my animation]<br><video src="motor_girl/motorgirl1.mp4" autoplay muted loop playsinline width="250" height="200"></video>
+
+
 
 # Contact Information:
 - mobile number : +989373615913
