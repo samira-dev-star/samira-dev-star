@@ -34,6 +34,68 @@ I believe in continuous learning, open collaboration, and combining different sk
 
 ![my animation]<br><img src="motor_girl/motorgirl.gif" alt="my animation" width="250" height="200">
 
+<h2 align="left">🎓 Certifications</h2>
+
+###
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 3px;">
+
+  <a href="./Certificate/Iran-Technical-and-Vocational-Training-Organization-(TVTO)/">
+    <img src="https://img.shields.io/badge/TVTO-FF69B4?style=for-the-badge&logoColor=ffffff" alt="TVTO" />
+  </a>
+
+  <a href="./Certificate/MSRT-of-Iran/">
+    <img src="https://img.shields.io/badge/MSRT-800080?style=for-the-badge&logoColor=ffffff" alt="MSRT" />
+  </a>
+
+  <a href="./Certificate/CS50/">
+    <img src="https://img.shields.io/badge/Harvard%20CS50-FF69B4?style=for-the-badge&logoColor=ffffff" alt="Harvard CS50" />
+  </a>
+
+  <a href="./Certificate/LINKEDIN-LEARNING/">
+    <img src="https://img.shields.io/badge/LINKEDIN%20LEARNING-800080?style=for-the-badge&logoColor=ffffff" alt="LINKEDIN LEARNING" />
+  </a>
+
+  <a href="./Certificate/Urbino-Carlo/">
+    <img src="https://img.shields.io/badge/Urbino%20Carlo-FF69B4?style=for-the-badge&logoColor=ffffff" alt="University of Urbino Carlo" />
+  </a>
+
+  <a href="./Certificate/َACECR/">
+    <img src="https://img.shields.io/badge/َACECR-800080?style=for-the-badge&logoColor=ffffff" alt="َACECR" />
+  </a>
+
+  <a href="./Certificate/Faraders/">
+    <img src="https://img.shields.io/badge/Faradars-FF69B4?style=for-the-badge&logoColor=ffffff" alt="Faradars" />
+  </a>
+
+  <a href="./Certificate/intellipaat/">
+    <img src="https://img.shields.io/badge/Intellipaat-800080?style=for-the-badge&logoColor=ffffff" alt="Intellipaat" />
+  </a>
+
+  <a href="./Certificate/Daneshjooyar/">
+    <img src="https://img.shields.io/badge/Daneshjooyar-FF69B4?style=for-the-badge&logoColor=ffffff" alt="Daneshjooyar" />
+  </a>
+
+  <a href="./Certificate/IRAN-DIGITAL/">
+    <img src="https://img.shields.io/badge/IRAN%20DIGITAL-800080?style=for-the-badge&logoColor=ffffff" alt="IRAN DIGITAL" />
+  </a>
+
+  <a href="./Certificate/Darsman/">
+    <img src="https://img.shields.io/badge/Darsman-FF69B4?style=for-the-badge&logoColor=ffffff" alt="Darsman" />
+  </a>
+
+  <a href="./Certificate/IRCS/">
+    <img src="https://img.shields.io/badge/IRCS-800080?style=for-the-badge&logoColor=ffffff" alt="IRCS" />
+  </a>
+
+  <a href="./Certificate/CAOIRI/">
+    <img src="https://img.shields.io/badge/CAOIRI-FF69B4?style=for-the-badge&logoColor=ffffff" alt="CAOIRI" />
+  </a>
+</div>
+
+
+
+<br>
+
 
 
 
