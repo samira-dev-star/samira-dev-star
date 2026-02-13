@@ -34,6 +34,15 @@ I believe in continuous learning, open collaboration, and combining different sk
 
 ![my animation]<br><img src="motor_girl/motorgirl.gif" alt="my animation" width="250" height="200">
 
+<h2 align="left">Work-history</h2>
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 3px;">
+  <a href="./Work-history/Language-training-at-the-Jihad-Daneshghee-Institute.png">
+    <img src="https://img.shields.io/badge/Language training at the Jihad Daneshghee Institute-000000?style=for-the-badge&logoColor=ffffff" alt="Show me." />
+  </a>
+  <a href="./Work-history/Teaching-at-Faraz-Language-School.png">
+    <img src="https://img.shields.io/badge/Teaching at Faraz Language School-ffffff?style=for-the-badge&logoColor=000000" alt="IRAN DIGITAL" />
+  </a>
+</div>
 <h2 align="left">🎓 Certifications</h2>
 
 ###
