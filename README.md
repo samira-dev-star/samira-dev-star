@@ -3,7 +3,7 @@
 🎯 Full-Stack Web Developer | 🎨 3D Designer | 🌍 Multilingual Self-Taught Learner  
 
 I’m a self-taught **full-stack developer** and **3D artist**, passionate about blending technology, creativity, and languages.  
-My journey has been shaped by curiosity and dedication — from teaching myself programming and design, to mastering multiple languages including **English (IELTS 7, with 7.5 in Speaking & Listening)**, **German**, and **Arabic**.  
+My journey has been shaped by curiosity and dedication — from teaching myself programming and design, to mastering multiple languages including **English (IELTS 7, with 7.5 in Speaking & Listening)**, **German B1**, and **Arabic B1**.  
 
 ## ✨ Highlights
 - 💻 Strong experience with **Django**, **FastAPI**, **Python**, and building APIs  
