@@ -6,7 +6,7 @@ I’m a self-taught **full-stack developer** and **3D artist**, passionate about
 My journey has been shaped by curiosity and dedication — from teaching myself programming and design, to mastering multiple languages including **English (IELTS 7, with 7.5 in Speaking & Listening)**, **German**, and **Arabic**.  
 
 ## ✨ Highlights
-- 💻 Strong experience with **Django**, **FastAPI**, and building APIs  
+- 💻 Strong experience with **Django**, **FastAPI**, **Python**, and building APIs  
 - 🌐 Knowledge of **JavaScript**, **jQuery**, **SQL**, and modern web technologies  
 - 🏥 Delivered real-world freelance projects (including a full **clinic website**)  
 - 🎓 Multiple **Harvard CS50 certifications** (Python, Web, SQL, Scratch, etc.)  
